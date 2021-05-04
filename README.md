@@ -1,3 +1,4 @@
+path /usr/local/Homebrew/Library/Taps/jason202005/homebrew-repo
 # REF 
 https://stackoverflow.com/questions/62785290/installing-previous-versions-of-a-formula-with-brew-extract
 https://stackoverflow.com/questions/39187812/homebrew-how-to-install-older-versions/46306176#46306176
